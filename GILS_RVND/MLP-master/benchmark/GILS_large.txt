@@ -1,0 +1,1286 @@
+largeInstances/bbz25234.tsp
+largeInstances/boa28924.tsp
+largeInstances/fma21553.tsp
+[PROGRESS] Time: 27.48s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 34.50s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 41.52s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 48.54s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 55.56s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 62.58s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 69.60s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 76.62s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 83.64s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 90.67s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 97.69s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 104.71s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 111.73s, Best Cost: 801586992.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 118.75s, Best Cost: 801586992.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 125.77s, Best Cost: 801586992.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 132.79s, Best Cost: 801586992.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 139.81s, Best Cost: 801586992.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 146.83s, Best Cost: 801038325.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 153.85s, Best Cost: 801038325.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 160.87s, Best Cost: 801038325.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 167.89s, Best Cost: 801038325.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 174.91s, Best Cost: 801038325.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 181.93s, Best Cost: 793899593.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 188.95s, Best Cost: 793899593.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 195.97s, Best Cost: 793899593.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 203.00s, Best Cost: 793899593.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 210.02s, Best Cost: 793899593.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 217.04s, Best Cost: 793562183.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 224.06s, Best Cost: 793562183.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 231.08s, Best Cost: 793562183.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 238.10s, Best Cost: 793562183.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 245.12s, Best Cost: 793562183.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 252.14s, Best Cost: 793562183.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 259.16s, Best Cost: 793071079.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 266.18s, Best Cost: 793071079.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 273.20s, Best Cost: 793071079.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 280.22s, Best Cost: 793071079.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 793071079.0
+TIME: 287.2
+[PROGRESS] Time: 25.37s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 32.39s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 39.41s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 46.44s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 53.46s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 60.48s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 67.50s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 74.52s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 81.54s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 88.56s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 95.58s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 102.60s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 109.62s, Best Cost: 800976012.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 116.64s, Best Cost: 800976012.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 123.66s, Best Cost: 800976012.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 130.68s, Best Cost: 800976012.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 137.70s, Best Cost: 800976012.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 144.72s, Best Cost: 800976012.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 151.74s, Best Cost: 800442186.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 158.77s, Best Cost: 800442186.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 165.79s, Best Cost: 800442186.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 172.81s, Best Cost: 800442186.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 179.83s, Best Cost: 793334776.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 186.85s, Best Cost: 793334776.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 193.87s, Best Cost: 793334776.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 200.89s, Best Cost: 793334776.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 207.91s, Best Cost: 793334776.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 214.93s, Best Cost: 788395114.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 221.95s, Best Cost: 788395114.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 228.97s, Best Cost: 788395114.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 235.99s, Best Cost: 788395114.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 243.01s, Best Cost: 788395114.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 250.03s, Best Cost: 788281553.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 257.05s, Best Cost: 788281553.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 264.07s, Best Cost: 788281553.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 271.09s, Best Cost: 788281553.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 278.12s, Best Cost: 788281553.0
+[PROGRESS] Epoch: 37, Interval: 7.02s, Time: 285.14s, Best Cost: 788281553.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 788281553.0
+TIME: 287.2
+[PROGRESS] Time: 27.40s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 34.42s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 41.44s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 48.47s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 55.48s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 62.51s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 69.53s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 76.55s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 83.57s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 90.59s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 97.61s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 104.63s, Best Cost: 801592187.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 111.65s, Best Cost: 801478653.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 118.67s, Best Cost: 801478653.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 125.69s, Best Cost: 801478653.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 132.71s, Best Cost: 801478653.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 139.73s, Best Cost: 801478653.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 146.75s, Best Cost: 801478653.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 153.77s, Best Cost: 801478653.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 160.79s, Best Cost: 800907620.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 167.81s, Best Cost: 800907620.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 174.84s, Best Cost: 800907620.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 181.86s, Best Cost: 800907620.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 188.88s, Best Cost: 800907620.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 195.90s, Best Cost: 800907620.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 202.92s, Best Cost: 800416235.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 209.94s, Best Cost: 800416235.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 216.96s, Best Cost: 800416235.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 223.98s, Best Cost: 800416235.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 231.00s, Best Cost: 793277378.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 238.02s, Best Cost: 793277378.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 245.04s, Best Cost: 793277378.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 252.06s, Best Cost: 793277378.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 259.08s, Best Cost: 793277378.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 266.10s, Best Cost: 793277378.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 273.12s, Best Cost: 793277378.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 280.14s, Best Cost: 792939920.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 792939920.0
+TIME: 287.2
+[PROGRESS] Time: 24.92s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 31.94s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 38.96s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 45.98s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 53.00s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 60.02s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 67.04s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 74.06s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 81.09s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 88.11s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 95.13s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 102.15s, Best Cost: 794097088.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 109.17s, Best Cost: 794097088.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 116.19s, Best Cost: 794097088.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 123.21s, Best Cost: 794097088.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 130.23s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 137.25s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 144.27s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 151.29s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 158.31s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 165.33s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 172.35s, Best Cost: 788707651.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 179.37s, Best Cost: 788707651.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 186.39s, Best Cost: 788707651.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 193.41s, Best Cost: 788707651.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 200.43s, Best Cost: 788707651.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 207.46s, Best Cost: 788330442.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 214.48s, Best Cost: 788330442.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 221.50s, Best Cost: 788330442.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 228.52s, Best Cost: 788330442.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 235.54s, Best Cost: 788330442.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 242.56s, Best Cost: 788330442.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 249.58s, Best Cost: 788008898.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 256.60s, Best Cost: 788008898.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 263.62s, Best Cost: 788008898.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 270.64s, Best Cost: 788008898.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 277.66s, Best Cost: 788008898.0
+[PROGRESS] Epoch: 37, Interval: 7.02s, Time: 284.68s, Best Cost: 788008898.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 788008898.0
+TIME: 287.2
+[PROGRESS] Time: 25.55s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 32.58s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 39.60s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 46.62s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 53.64s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 60.66s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 67.68s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 74.70s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 81.72s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 88.74s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 95.76s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 102.78s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 109.80s, Best Cost: 800911732.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 116.82s, Best Cost: 800911732.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 123.84s, Best Cost: 800911732.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 130.87s, Best Cost: 800911732.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 137.88s, Best Cost: 800911732.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 144.91s, Best Cost: 800911732.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 151.93s, Best Cost: 800377948.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 158.95s, Best Cost: 800377948.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 165.97s, Best Cost: 800377948.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 172.99s, Best Cost: 800377948.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 180.01s, Best Cost: 800377948.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 187.03s, Best Cost: 800377948.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 194.05s, Best Cost: 799900377.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 201.07s, Best Cost: 799900377.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 208.09s, Best Cost: 799900377.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 215.11s, Best Cost: 799900377.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 222.13s, Best Cost: 799900377.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 229.15s, Best Cost: 799900377.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 236.17s, Best Cost: 799526575.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 243.19s, Best Cost: 799526575.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 250.21s, Best Cost: 799526575.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 257.23s, Best Cost: 799526575.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 264.25s, Best Cost: 799526575.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 271.28s, Best Cost: 799412969.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 278.30s, Best Cost: 799412969.0
+[PROGRESS] Epoch: 37, Interval: 7.02s, Time: 285.32s, Best Cost: 799412969.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 799412969.0
+TIME: 287.2
+[PROGRESS] Time: 26.13s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 33.15s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 40.17s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 47.19s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 54.21s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 61.23s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 68.25s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 75.27s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 82.29s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 89.31s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 96.34s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 103.36s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 110.38s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 117.40s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 124.42s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 131.44s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 138.46s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 145.48s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 152.50s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 159.52s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 166.54s, Best Cost: 789029779.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 173.56s, Best Cost: 788652570.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 180.58s, Best Cost: 788652570.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 187.60s, Best Cost: 788652570.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 194.62s, Best Cost: 788652570.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 201.64s, Best Cost: 788652570.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 208.66s, Best Cost: 788652570.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 215.69s, Best Cost: 788309733.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 222.71s, Best Cost: 788309733.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 229.73s, Best Cost: 788309733.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 236.75s, Best Cost: 788309733.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 243.77s, Best Cost: 788309733.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 250.79s, Best Cost: 788309733.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 257.81s, Best Cost: 787973191.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 264.83s, Best Cost: 787973191.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 271.85s, Best Cost: 787973191.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 278.87s, Best Cost: 787973191.0
+[PROGRESS] Epoch: 37, Interval: 7.02s, Time: 285.89s, Best Cost: 787973191.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 787973191.0
+TIME: 287.2
+[PROGRESS] Time: 26.28s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 33.30s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 40.32s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 47.34s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 54.36s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 61.38s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 68.40s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 75.42s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 82.44s, Best Cost: 794541069.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 89.46s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 96.48s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 103.50s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 110.53s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 117.55s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 124.57s, Best Cost: 789473760.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 131.59s, Best Cost: 789003259.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 138.61s, Best Cost: 789003259.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 145.63s, Best Cost: 789003259.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 152.65s, Best Cost: 789003259.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 159.67s, Best Cost: 789003259.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 166.69s, Best Cost: 789003259.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 173.71s, Best Cost: 788681131.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 180.73s, Best Cost: 788681131.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 187.75s, Best Cost: 788681131.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 194.77s, Best Cost: 788681131.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 201.79s, Best Cost: 787809207.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 208.81s, Best Cost: 787809207.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 215.83s, Best Cost: 787809207.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 222.85s, Best Cost: 787809207.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 229.88s, Best Cost: 787292828.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 236.90s, Best Cost: 787292828.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 243.92s, Best Cost: 787292828.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 250.94s, Best Cost: 787292828.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 257.96s, Best Cost: 787292828.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 264.98s, Best Cost: 787292828.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 272.00s, Best Cost: 786915575.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 279.02s, Best Cost: 786915575.0
+[PROGRESS] Epoch: 37, Interval: 7.02s, Time: 286.04s, Best Cost: 786915575.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 786915575.0
+TIME: 287.2
+[PROGRESS] Time: 26.13s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 33.15s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 40.17s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 47.20s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 54.22s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 61.24s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 68.26s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 75.28s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 82.30s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 89.32s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 96.34s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 103.36s, Best Cost: 802157447.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 110.38s, Best Cost: 801506889.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 117.40s, Best Cost: 801506889.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 124.42s, Best Cost: 801506889.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 131.44s, Best Cost: 801506889.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 138.46s, Best Cost: 801506889.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 145.48s, Best Cost: 801506889.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 152.50s, Best Cost: 800958298.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 159.52s, Best Cost: 800958298.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 166.55s, Best Cost: 800958298.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 173.57s, Best Cost: 800958298.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 180.59s, Best Cost: 800958298.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 187.61s, Best Cost: 800958298.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 194.63s, Best Cost: 800424534.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 201.65s, Best Cost: 800424534.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 208.67s, Best Cost: 800424534.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 215.69s, Best Cost: 800424534.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 222.71s, Best Cost: 800424534.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 229.73s, Best Cost: 800310973.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 236.75s, Best Cost: 800310973.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 243.77s, Best Cost: 800310973.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 250.79s, Best Cost: 800310973.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 257.81s, Best Cost: 800310973.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 264.83s, Best Cost: 793229085.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 271.85s, Best Cost: 793229085.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 278.88s, Best Cost: 793229085.0
+[PROGRESS] Epoch: 37, Interval: 7.02s, Time: 285.90s, Best Cost: 793229085.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 793229085.0
+TIME: 287.2
+[PROGRESS] Time: 26.40s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 33.42s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 40.44s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 47.46s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 54.48s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 61.50s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 68.53s, Best Cost: 801632503.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 75.55s, Best Cost: 801632503.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 82.57s, Best Cost: 801632503.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 89.59s, Best Cost: 801632503.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 96.61s, Best Cost: 801632503.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 103.63s, Best Cost: 794123525.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 110.65s, Best Cost: 794123525.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 117.67s, Best Cost: 794123525.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 124.69s, Best Cost: 794123525.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 131.71s, Best Cost: 789056216.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 138.73s, Best Cost: 789056216.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 145.75s, Best Cost: 789056216.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 152.77s, Best Cost: 789056216.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 159.79s, Best Cost: 789056216.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 166.81s, Best Cost: 789056216.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 173.83s, Best Cost: 788650481.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 180.86s, Best Cost: 788650481.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 187.88s, Best Cost: 788650481.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 194.90s, Best Cost: 788650481.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 201.92s, Best Cost: 787768394.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 208.94s, Best Cost: 787768394.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 215.96s, Best Cost: 787768394.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 222.98s, Best Cost: 787768394.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 230.00s, Best Cost: 787768394.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 237.02s, Best Cost: 787768394.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 244.04s, Best Cost: 787446831.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 251.06s, Best Cost: 787446831.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 258.08s, Best Cost: 787446831.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 265.10s, Best Cost: 787446831.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 272.12s, Best Cost: 787446831.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 279.14s, Best Cost: 787446831.0
+[PROGRESS] Epoch: 37, Interval: 7.02s, Time: 286.16s, Best Cost: 787162999.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 787162999.0
+TIME: 287.2
+[PROGRESS] Time: 26.47s, Best Cost: 802410166.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.02s, Time: 33.49s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 2, Interval: 7.02s, Time: 40.51s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 3, Interval: 7.02s, Time: 47.54s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 4, Interval: 7.02s, Time: 54.55s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 5, Interval: 7.02s, Time: 61.58s, Best Cost: 802410166.0
+[PROGRESS] Epoch: 6, Interval: 7.02s, Time: 68.60s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 7, Interval: 7.02s, Time: 75.62s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 8, Interval: 7.02s, Time: 82.64s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 9, Interval: 7.02s, Time: 89.66s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 10, Interval: 7.02s, Time: 96.68s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 11, Interval: 7.02s, Time: 103.70s, Best Cost: 801528051.0
+[PROGRESS] Epoch: 12, Interval: 7.02s, Time: 110.72s, Best Cost: 800876751.0
+[PROGRESS] Epoch: 13, Interval: 7.02s, Time: 117.74s, Best Cost: 800876751.0
+[PROGRESS] Epoch: 14, Interval: 7.02s, Time: 124.76s, Best Cost: 800876751.0
+[PROGRESS] Epoch: 15, Interval: 7.02s, Time: 131.78s, Best Cost: 800876751.0
+[PROGRESS] Epoch: 16, Interval: 7.02s, Time: 138.80s, Best Cost: 800876751.0
+[PROGRESS] Epoch: 17, Interval: 7.02s, Time: 145.82s, Best Cost: 800876751.0
+[PROGRESS] Epoch: 18, Interval: 7.02s, Time: 152.84s, Best Cost: 800539301.0
+[PROGRESS] Epoch: 19, Interval: 7.02s, Time: 159.86s, Best Cost: 800539301.0
+[PROGRESS] Epoch: 20, Interval: 7.02s, Time: 166.88s, Best Cost: 800539301.0
+[PROGRESS] Epoch: 21, Interval: 7.02s, Time: 173.91s, Best Cost: 800539301.0
+[PROGRESS] Epoch: 22, Interval: 7.02s, Time: 180.93s, Best Cost: 800539301.0
+[PROGRESS] Epoch: 23, Interval: 7.02s, Time: 187.94s, Best Cost: 800539301.0
+[PROGRESS] Epoch: 24, Interval: 7.02s, Time: 194.97s, Best Cost: 800425758.0
+[PROGRESS] Epoch: 25, Interval: 7.02s, Time: 201.99s, Best Cost: 800425758.0
+[PROGRESS] Epoch: 26, Interval: 7.02s, Time: 209.01s, Best Cost: 800425758.0
+[PROGRESS] Epoch: 27, Interval: 7.02s, Time: 216.03s, Best Cost: 800425758.0
+[PROGRESS] Epoch: 28, Interval: 7.02s, Time: 223.05s, Best Cost: 793380661.0
+[PROGRESS] Epoch: 29, Interval: 7.02s, Time: 230.07s, Best Cost: 793380661.0
+[PROGRESS] Epoch: 30, Interval: 7.02s, Time: 237.09s, Best Cost: 793380661.0
+[PROGRESS] Epoch: 31, Interval: 7.02s, Time: 244.11s, Best Cost: 793380661.0
+[PROGRESS] Epoch: 32, Interval: 7.02s, Time: 251.13s, Best Cost: 793380661.0
+[PROGRESS] Epoch: 33, Interval: 7.02s, Time: 258.15s, Best Cost: 793380661.0
+[PROGRESS] Epoch: 34, Interval: 7.02s, Time: 265.17s, Best Cost: 792847300.0
+[PROGRESS] Epoch: 35, Interval: 7.02s, Time: 272.19s, Best Cost: 792847300.0
+[PROGRESS] Epoch: 36, Interval: 7.02s, Time: 279.21s, Best Cost: 792847300.0
+[PROGRESS] Epoch: 37, Interval: 7.02s, Time: 286.23s, Best Cost: 792847300.0
+[TIMEOUT REACHED: 286.8 seconds]
+COST: 792847300.0
+TIME: 287.2
+largeInstances/lsb22777.tsp
+[PROGRESS] Time: 32.27s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 39.65s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 47.03s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 54.41s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 61.79s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 69.17s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 76.55s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 83.94s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 91.30s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 98.68s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 106.06s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 113.78s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 121.57s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 128.20s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 136.46s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 143.22s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 151.04s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 157.72s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 165.10s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 172.48s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 179.86s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 187.23s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 194.61s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 201.99s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 209.37s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 216.75s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 224.13s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 231.51s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 238.89s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 246.27s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 253.65s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 261.04s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 268.40s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 275.78s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 283.25s, Best Cost: 775011166.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 290.54s, Best Cost: 775011166.0
+[PROGRESS] Epoch: 36, Interval: 7.38s, Time: 297.92s, Best Cost: 775011166.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 775011166.0
+TIME: 298.5
+[PROGRESS] Time: 33.98s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 41.52s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 48.74s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 56.12s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 63.50s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 70.88s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 78.67s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 85.64s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 93.29s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 100.57s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 107.77s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 115.33s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 122.54s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 129.92s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 137.29s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 144.67s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 152.08s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 159.44s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 166.81s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 174.21s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 181.57s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 188.95s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 196.32s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 203.70s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 211.08s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 218.51s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 225.86s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 233.22s, Best Cost: 781828422.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 240.60s, Best Cost: 781828422.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 247.98s, Best Cost: 781828422.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 255.36s, Best Cost: 781828422.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 262.76s, Best Cost: 781828422.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 270.11s, Best Cost: 781828422.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 277.59s, Best Cost: 781828422.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 284.89s, Best Cost: 781828422.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 292.26s, Best Cost: 781828422.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 781828422.0
+TIME: 299.4
+[PROGRESS] Time: 34.48s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 41.96s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 49.24s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 56.61s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 63.99s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 71.37s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 79.02s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 86.13s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 93.51s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 100.89s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 108.36s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 115.98s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 123.03s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 130.41s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 137.79s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 145.17s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 152.55s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 159.92s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 167.31s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 174.68s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 182.08s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 189.45s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 196.82s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 204.20s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 211.58s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 218.96s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 226.34s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 233.71s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 241.09s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 248.47s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 255.90s, Best Cost: 781729033.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 264.36s, Best Cost: 781729033.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 270.61s, Best Cost: 781729033.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 277.99s, Best Cost: 781729033.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 285.43s, Best Cost: 781729033.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 293.39s, Best Cost: 781729033.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 781729033.0
+TIME: 299.1
+[PROGRESS] Time: 36.01s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 43.39s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 51.14s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 58.15s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 65.53s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 73.25s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 80.29s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 87.75s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 95.58s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 102.42s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 109.80s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 117.18s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 124.56s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 131.94s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 139.32s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 146.70s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 154.08s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 161.46s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 168.84s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 176.22s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 183.59s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 190.97s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 198.35s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 205.73s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 213.11s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 220.49s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 227.87s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 235.25s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 242.63s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 250.01s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 257.39s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 264.77s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 272.14s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 279.53s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 286.91s, Best Cost: 782068707.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 294.28s, Best Cost: 782068707.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 782068707.0
+TIME: 299.2
+[PROGRESS] Time: 35.63s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 43.30s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 50.39s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 57.76s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 65.16s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 72.52s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 80.02s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 87.28s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 94.66s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 102.07s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 109.42s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 117.20s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 124.26s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 131.56s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 138.94s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 146.32s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 153.70s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 161.07s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 168.45s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 175.83s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 183.21s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 190.60s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 197.97s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 205.35s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 212.73s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 220.11s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 227.49s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 234.86s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 242.24s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 249.62s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 257.00s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 265.95s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 272.62s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 279.55s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 286.77s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 293.90s, Best Cost: 781903587.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 781903587.0
+TIME: 298.9
+[PROGRESS] Time: 34.80s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 42.57s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 49.91s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 56.94s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 65.19s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 72.68s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 79.47s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 86.46s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 93.91s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 101.22s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 108.59s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 116.17s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 123.49s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 130.74s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 138.14s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 145.49s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 152.87s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 160.25s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 167.63s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 175.01s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 182.38s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 189.77s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 197.14s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 204.53s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 211.91s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 219.28s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 226.66s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 234.04s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 241.42s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 248.80s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 256.66s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 264.07s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 271.27s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 278.31s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 285.69s, Best Cost: 781903587.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 293.10s, Best Cost: 781903587.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 781903587.0
+TIME: 299.5
+[PROGRESS] Time: 36.47s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 43.85s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 51.24s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 58.61s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 65.99s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 73.37s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 81.11s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 88.13s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 95.51s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 102.89s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 110.27s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 117.64s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 125.02s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 132.40s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 139.78s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 147.16s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 154.56s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 161.92s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 169.30s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 176.68s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 184.06s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 191.44s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 198.82s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 206.20s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 213.58s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 220.95s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 228.33s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 235.71s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 243.09s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 250.47s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 257.85s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 265.26s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 272.61s, Best Cost: 773389699.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 279.99s, Best Cost: 773389699.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 287.37s, Best Cost: 773389699.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 294.74s, Best Cost: 773389699.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 773389699.0
+TIME: 298.7
+[PROGRESS] Time: 34.58s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 41.96s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 49.34s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 56.73s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 64.10s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 71.49s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 78.86s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 86.24s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 93.62s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 101.00s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 108.38s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 115.76s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 123.14s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 130.52s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 137.89s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 145.28s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 152.65s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 160.03s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 167.41s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 174.79s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 182.17s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 189.55s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 196.95s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 204.31s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 211.68s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 219.06s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 226.59s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 233.83s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 241.20s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 248.58s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 255.96s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 263.36s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 270.77s, Best Cost: 773389699.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 278.75s, Best Cost: 773389699.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 285.48s, Best Cost: 773389699.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 292.91s, Best Cost: 773389699.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 773389699.0
+TIME: 298.5
+[PROGRESS] Time: 34.26s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 41.64s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 49.02s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 56.40s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 63.78s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 71.16s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 78.53s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 85.92s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 93.29s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 100.67s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 108.05s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 115.43s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 122.81s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 130.34s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 137.84s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 144.95s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 152.36s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 160.47s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 167.37s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 174.86s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 181.84s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 189.22s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 196.60s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 203.98s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 211.36s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 218.74s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 226.12s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 233.50s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 240.88s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 248.26s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 255.63s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 263.01s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 270.43s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 277.78s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 285.15s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 292.53s, Best Cost: 775287885.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 775287885.0
+TIME: 298.6
+[PROGRESS] Time: 34.73s, Best Cost: 782205297.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 7.38s, Time: 42.11s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 2, Interval: 7.38s, Time: 49.49s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 3, Interval: 7.38s, Time: 56.87s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 4, Interval: 7.38s, Time: 64.25s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 5, Interval: 7.38s, Time: 71.63s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 6, Interval: 7.38s, Time: 79.01s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 7, Interval: 7.38s, Time: 86.38s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 8, Interval: 7.38s, Time: 93.76s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 9, Interval: 7.38s, Time: 101.14s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 10, Interval: 7.38s, Time: 108.52s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 11, Interval: 7.38s, Time: 115.90s, Best Cost: 782205297.0
+[PROGRESS] Epoch: 12, Interval: 7.38s, Time: 123.60s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 13, Interval: 7.38s, Time: 130.66s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 14, Interval: 7.38s, Time: 138.08s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 15, Interval: 7.38s, Time: 145.42s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 16, Interval: 7.38s, Time: 152.80s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 17, Interval: 7.38s, Time: 160.47s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 18, Interval: 7.38s, Time: 167.63s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 19, Interval: 7.38s, Time: 175.09s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 20, Interval: 7.38s, Time: 182.31s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 21, Interval: 7.38s, Time: 189.71s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 22, Interval: 7.38s, Time: 197.07s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 23, Interval: 7.38s, Time: 204.45s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 24, Interval: 7.38s, Time: 211.85s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 25, Interval: 7.38s, Time: 219.21s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 26, Interval: 7.38s, Time: 226.59s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 27, Interval: 7.38s, Time: 233.97s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 28, Interval: 7.38s, Time: 241.34s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 29, Interval: 7.38s, Time: 248.73s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 30, Interval: 7.38s, Time: 256.11s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 31, Interval: 7.38s, Time: 263.48s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 32, Interval: 7.38s, Time: 270.86s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 33, Interval: 7.38s, Time: 278.24s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 34, Interval: 7.38s, Time: 285.63s, Best Cost: 775287885.0
+[PROGRESS] Epoch: 35, Interval: 7.38s, Time: 293.00s, Best Cost: 775287885.0
+[TIMEOUT REACHED: 298.0 seconds]
+COST: 775287885.0
+TIME: 299.2
+largeInstances/pla33810.tsp
+largeInstances/usa13509.tsp
+[PROGRESS] Time: 7.79s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.46s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 17.12s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 21.78s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.45s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 31.11s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 35.78s, Best Cost: 131473363270.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.44s, Best Cost: 131473363270.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 45.11s, Best Cost: 130776899741.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 49.77s, Best Cost: 130776899741.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.43s, Best Cost: 130610245813.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 59.10s, Best Cost: 130610245813.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 63.76s, Best Cost: 130610245813.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.43s, Best Cost: 130459583794.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 73.09s, Best Cost: 130459583794.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 77.76s, Best Cost: 130396895561.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.42s, Best Cost: 130396895561.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 87.08s, Best Cost: 130396895561.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 91.75s, Best Cost: 130337986398.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.41s, Best Cost: 130337986398.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 101.08s, Best Cost: 130337986398.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 105.74s, Best Cost: 130283963656.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.41s, Best Cost: 130283963656.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 115.07s, Best Cost: 130201613715.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 119.73s, Best Cost: 130201613715.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.40s, Best Cost: 130201613715.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 129.06s, Best Cost: 130130379415.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 133.73s, Best Cost: 130130379415.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.39s, Best Cost: 130096767846.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 143.05s, Best Cost: 130096767846.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 147.72s, Best Cost: 130096767846.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.38s, Best Cost: 130068796779.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 157.05s, Best Cost: 130068796779.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 161.71s, Best Cost: 130068796779.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.38s, Best Cost: 130004126663.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 171.04s, Best Cost: 129297033497.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 175.70s, Best Cost: 129297033497.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.37s, Best Cost: 129297033497.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 185.03s, Best Cost: 129258913907.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 189.70s, Best Cost: 129258913907.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.36s, Best Cost: 129258913907.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 199.03s, Best Cost: 129184654271.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 203.69s, Best Cost: 129184654271.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.35s, Best Cost: 129131160858.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 213.02s, Best Cost: 129131160858.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 129131160858.0
+TIME: 213.9
+[PROGRESS] Time: 8.15s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.82s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 17.48s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 22.15s, Best Cost: 131626325067.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.81s, Best Cost: 131626325067.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 31.48s, Best Cost: 131626325067.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 36.14s, Best Cost: 131481530999.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.81s, Best Cost: 131481530999.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 45.47s, Best Cost: 131349179442.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 50.13s, Best Cost: 131349179442.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.80s, Best Cost: 131349179442.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 59.46s, Best Cost: 131292841795.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 64.13s, Best Cost: 131292841795.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.79s, Best Cost: 131117086315.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 73.45s, Best Cost: 131117086315.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 78.12s, Best Cost: 131117086315.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.78s, Best Cost: 131083485174.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 87.45s, Best Cost: 131083485174.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 92.11s, Best Cost: 131083485174.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.78s, Best Cost: 130993528848.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 101.44s, Best Cost: 130993528848.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 106.10s, Best Cost: 130297113622.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.77s, Best Cost: 130297113622.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 115.43s, Best Cost: 130220379627.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 120.10s, Best Cost: 130220379627.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.76s, Best Cost: 129537603742.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 129.43s, Best Cost: 129537603742.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 134.09s, Best Cost: 129537603742.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.75s, Best Cost: 129452879871.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 143.42s, Best Cost: 129452879871.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 148.08s, Best Cost: 128612028089.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.75s, Best Cost: 128612028089.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 157.41s, Best Cost: 128522647550.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 162.07s, Best Cost: 128522647550.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.74s, Best Cost: 128522647550.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 171.40s, Best Cost: 128487094160.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 176.07s, Best Cost: 128487094160.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.73s, Best Cost: 128455052457.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 185.40s, Best Cost: 128455052457.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 190.06s, Best Cost: 127892850084.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.72s, Best Cost: 127892850084.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 199.39s, Best Cost: 127892850084.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 204.05s, Best Cost: 127864888261.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.72s, Best Cost: 127864888261.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 213.38s, Best Cost: 127864888261.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 127840796239.0
+TIME: 213.9
+[PROGRESS] Time: 8.12s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.78s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 17.45s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 22.11s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.77s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 31.44s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 36.10s, Best Cost: 131384888778.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.77s, Best Cost: 131384888778.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 45.43s, Best Cost: 131149085625.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 50.09s, Best Cost: 131149085625.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.76s, Best Cost: 131149085625.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 59.42s, Best Cost: 131059129299.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 64.09s, Best Cost: 131059129299.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.75s, Best Cost: 131059129299.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 73.42s, Best Cost: 131023425383.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 78.08s, Best Cost: 131023425383.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.74s, Best Cost: 130946691388.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 87.41s, Best Cost: 130946691388.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 92.07s, Best Cost: 130946691388.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.74s, Best Cost: 130879511495.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 101.40s, Best Cost: 130879511495.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 106.07s, Best Cost: 130879511495.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.73s, Best Cost: 130812834467.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 115.39s, Best Cost: 130812834467.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 120.06s, Best Cost: 130130874993.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.72s, Best Cost: 130130874993.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 129.39s, Best Cost: 130068161656.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 134.05s, Best Cost: 130068161656.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.72s, Best Cost: 130068161656.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 143.38s, Best Cost: 129983375574.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 148.04s, Best Cost: 129983375574.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.71s, Best Cost: 129983375574.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 157.37s, Best Cost: 129912157844.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 162.04s, Best Cost: 129912157844.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.70s, Best Cost: 129846519008.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 171.37s, Best Cost: 129846519008.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 176.03s, Best Cost: 129846519008.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.69s, Best Cost: 129801880275.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 185.36s, Best Cost: 129801880275.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 190.02s, Best Cost: 129741621732.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.69s, Best Cost: 129741621732.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 199.35s, Best Cost: 129741621732.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 204.02s, Best Cost: 129686631003.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.68s, Best Cost: 129686631003.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 213.34s, Best Cost: 129686631003.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 129686631003.0
+TIME: 213.9
+[PROGRESS] Time: 7.98s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.64s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 17.31s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 21.97s, Best Cost: 130965538672.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.64s, Best Cost: 130965538672.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 31.30s, Best Cost: 130833233096.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 35.96s, Best Cost: 130833233096.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.63s, Best Cost: 130833233096.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 45.29s, Best Cost: 130610293964.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 49.96s, Best Cost: 130610293964.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.62s, Best Cost: 130541508578.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 59.29s, Best Cost: 130541508578.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 63.95s, Best Cost: 130541508578.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.61s, Best Cost: 130505799242.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 73.28s, Best Cost: 130505799242.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 77.94s, Best Cost: 129846099686.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.61s, Best Cost: 129846099686.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 87.27s, Best Cost: 129742501970.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 91.93s, Best Cost: 129742501970.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.60s, Best Cost: 129742501970.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 101.26s, Best Cost: 129666906769.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 105.93s, Best Cost: 129666906769.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.59s, Best Cost: 129666906769.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 115.26s, Best Cost: 129572803892.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 119.92s, Best Cost: 129572803892.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.58s, Best Cost: 129490670364.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 129.25s, Best Cost: 129490670364.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 133.91s, Best Cost: 129490670364.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.58s, Best Cost: 129452550774.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 143.24s, Best Cost: 129452550774.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 147.91s, Best Cost: 129373548784.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.57s, Best Cost: 129373548784.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 157.23s, Best Cost: 129373548784.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 161.90s, Best Cost: 129298766928.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.56s, Best Cost: 129298766928.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 171.23s, Best Cost: 129298766928.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 175.89s, Best Cost: 129264627560.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.56s, Best Cost: 129264627560.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 185.22s, Best Cost: 129212652544.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 189.88s, Best Cost: 129212652544.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.55s, Best Cost: 128520295035.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 199.21s, Best Cost: 128520295035.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 203.88s, Best Cost: 127903893457.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.54s, Best Cost: 127903893457.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 213.21s, Best Cost: 127466897831.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 127466897831.0
+TIME: 213.9
+[PROGRESS] Time: 8.04s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.71s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 17.37s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 22.03s, Best Cost: 131517240335.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.70s, Best Cost: 131517240335.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 31.36s, Best Cost: 130820744604.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 36.03s, Best Cost: 130820744604.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.69s, Best Cost: 130820744604.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 45.36s, Best Cost: 130700839642.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 50.02s, Best Cost: 130700839642.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.68s, Best Cost: 130041083986.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 59.35s, Best Cost: 130041083986.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 64.01s, Best Cost: 129812644550.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.68s, Best Cost: 129812644550.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 73.34s, Best Cost: 129151154547.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 78.01s, Best Cost: 129151154547.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.67s, Best Cost: 128531762709.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 87.33s, Best Cost: 128531762709.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 92.00s, Best Cost: 128531762709.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.66s, Best Cost: 128436394093.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 101.33s, Best Cost: 128436394093.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 105.99s, Best Cost: 128363893645.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.66s, Best Cost: 128363893645.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 115.32s, Best Cost: 128363893645.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 119.98s, Best Cost: 128300936674.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.65s, Best Cost: 128300936674.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 129.31s, Best Cost: 128165612374.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 133.98s, Best Cost: 128165612374.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.64s, Best Cost: 128165612374.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 143.31s, Best Cost: 128125413514.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 147.97s, Best Cost: 128125413514.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.63s, Best Cost: 128089706650.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 157.30s, Best Cost: 128089706650.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 161.96s, Best Cost: 128089706650.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.63s, Best Cost: 127988891417.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 171.29s, Best Cost: 127988891417.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 175.95s, Best Cost: 127540629545.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.62s, Best Cost: 127540629545.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 185.28s, Best Cost: 127486348801.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 189.95s, Best Cost: 127486348801.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.61s, Best Cost: 127486348801.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 199.28s, Best Cost: 127435884481.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 203.94s, Best Cost: 127435884481.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.60s, Best Cost: 127352452877.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 213.27s, Best Cost: 127352452877.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 127352452877.0
+TIME: 213.9
+[PROGRESS] Time: 7.66s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.33s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 16.99s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 21.65s, Best Cost: 131517240335.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.32s, Best Cost: 131517240335.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 30.98s, Best Cost: 131517240335.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 35.65s, Best Cost: 131454593942.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.31s, Best Cost: 131454593942.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 44.98s, Best Cost: 131395710464.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 49.64s, Best Cost: 131395710464.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.30s, Best Cost: 131395710464.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 58.97s, Best Cost: 131341639683.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 63.63s, Best Cost: 131341639683.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.30s, Best Cost: 131209267653.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 72.96s, Best Cost: 131209267653.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 77.63s, Best Cost: 131209267653.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.29s, Best Cost: 131152925714.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 86.95s, Best Cost: 131152925714.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 91.62s, Best Cost: 130456494387.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.28s, Best Cost: 130456494387.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 100.95s, Best Cost: 130289795743.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 105.61s, Best Cost: 130289795743.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.27s, Best Cost: 130289795743.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 114.94s, Best Cost: 130238438942.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 119.60s, Best Cost: 130238438942.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.27s, Best Cost: 130238438942.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 128.93s, Best Cost: 130187202350.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 133.60s, Best Cost: 130187202350.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.26s, Best Cost: 130153588174.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 142.93s, Best Cost: 130153588174.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 147.59s, Best Cost: 130153588174.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.25s, Best Cost: 130071238233.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 156.92s, Best Cost: 130071238233.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 161.58s, Best Cost: 130000003933.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.25s, Best Cost: 130000003933.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 170.91s, Best Cost: 130000003933.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 175.58s, Best Cost: 129972030555.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.24s, Best Cost: 129972030555.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 184.90s, Best Cost: 129252286059.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 189.57s, Best Cost: 129252286059.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.23s, Best Cost: 129192934918.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 198.90s, Best Cost: 129192934918.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 203.56s, Best Cost: 129192934918.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.22s, Best Cost: 129160256575.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 212.89s, Best Cost: 129160256575.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 129160256575.0
+TIME: 213.9
+[PROGRESS] Time: 7.84s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.51s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 17.17s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 21.84s, Best Cost: 131511473573.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.50s, Best Cost: 131511473573.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 31.16s, Best Cost: 130814977842.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 35.83s, Best Cost: 130814977842.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.49s, Best Cost: 130814977842.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 45.16s, Best Cost: 130752331449.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 49.82s, Best Cost: 130752331449.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.49s, Best Cost: 130716622113.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 59.15s, Best Cost: 130716622113.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 63.81s, Best Cost: 130023156535.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.48s, Best Cost: 130023156535.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 73.14s, Best Cost: 130023156535.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 77.81s, Best Cost: 129985058095.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.47s, Best Cost: 129985058095.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 87.14s, Best Cost: 129865176882.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 91.80s, Best Cost: 129865176882.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.46s, Best Cost: 129865176882.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 101.13s, Best Cost: 129636660495.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 105.79s, Best Cost: 129636660495.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.46s, Best Cost: 129636660495.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 115.12s, Best Cost: 129543260260.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 119.79s, Best Cost: 129543260260.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.45s, Best Cost: 129461132156.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 129.11s, Best Cost: 129461132156.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 133.78s, Best Cost: 129461132156.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.44s, Best Cost: 129426985805.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 143.11s, Best Cost: 129426985805.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 147.77s, Best Cost: 129426985805.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.44s, Best Cost: 129373495923.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 157.10s, Best Cost: 129373495923.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 161.76s, Best Cost: 128715653384.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.43s, Best Cost: 128715653384.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 171.09s, Best Cost: 128652706613.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 175.76s, Best Cost: 128652706613.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.42s, Best Cost: 128033314775.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 185.08s, Best Cost: 128033314775.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 189.75s, Best Cost: 128033314775.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.41s, Best Cost: 127932865902.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 199.08s, Best Cost: 127932865902.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 203.74s, Best Cost: 127493762900.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.41s, Best Cost: 127493762900.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 213.07s, Best Cost: 127186708357.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 127186708357.0
+TIME: 213.9
+[PROGRESS] Time: 8.08s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.75s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 17.41s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 22.08s, Best Cost: 131517240335.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.74s, Best Cost: 131517240335.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 31.40s, Best Cost: 131517240335.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 36.07s, Best Cost: 131454593942.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.73s, Best Cost: 131454593942.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 45.40s, Best Cost: 130758098211.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 50.06s, Best Cost: 130758098211.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.73s, Best Cost: 130064632633.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 59.39s, Best Cost: 130064632633.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 64.05s, Best Cost: 129278713306.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.72s, Best Cost: 129278713306.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 73.38s, Best Cost: 129206249755.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 78.05s, Best Cost: 129206249755.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.71s, Best Cost: 129206249755.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 87.38s, Best Cost: 129069413564.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 92.04s, Best Cost: 129069413564.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.70s, Best Cost: 129069413564.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 101.37s, Best Cost: 128967692662.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 106.03s, Best Cost: 128967692662.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.70s, Best Cost: 128882365475.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 115.36s, Best Cost: 128882365475.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 120.02s, Best Cost: 128882365475.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.69s, Best Cost: 128842156040.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 129.35s, Best Cost: 128842156040.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 134.02s, Best Cost: 128697205679.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.68s, Best Cost: 128697205679.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 143.35s, Best Cost: 128697205679.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 148.01s, Best Cost: 128634233408.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.67s, Best Cost: 128634233408.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 157.34s, Best Cost: 128579942015.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 162.00s, Best Cost: 128579942015.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.67s, Best Cost: 127962045307.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 171.33s, Best Cost: 127962045307.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 176.00s, Best Cost: 127962045307.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.66s, Best Cost: 127882019870.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 185.32s, Best Cost: 127882019870.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 189.99s, Best Cost: 127846301231.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.65s, Best Cost: 127846301231.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 199.32s, Best Cost: 127846301231.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 203.98s, Best Cost: 127780169741.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.65s, Best Cost: 127780169741.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 213.31s, Best Cost: 127754736014.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 127754736014.0
+TIME: 213.9
+[PROGRESS] Time: 7.66s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.33s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 16.99s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 21.65s, Best Cost: 131511473573.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.32s, Best Cost: 131511473573.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 30.98s, Best Cost: 131511473573.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 35.65s, Best Cost: 131391495586.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.31s, Best Cost: 131391495586.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 44.98s, Best Cost: 131162882425.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 49.64s, Best Cost: 131162882425.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.30s, Best Cost: 131162882425.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 58.97s, Best Cost: 131127173089.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 63.63s, Best Cost: 131127173089.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.30s, Best Cost: 131037639010.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 72.96s, Best Cost: 131037639010.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 77.63s, Best Cost: 131037639010.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.29s, Best Cost: 130966410474.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 86.95s, Best Cost: 130966410474.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 91.62s, Best Cost: 130966410474.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.28s, Best Cost: 130901515858.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 100.95s, Best Cost: 130901515858.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 105.61s, Best Cost: 130837194384.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.28s, Best Cost: 130837194384.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 114.94s, Best Cost: 130837194384.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 119.60s, Best Cost: 130803582815.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.27s, Best Cost: 130803582815.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 128.93s, Best Cost: 130103641580.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 133.60s, Best Cost: 130103641580.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.26s, Best Cost: 130075670513.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 142.93s, Best Cost: 130075670513.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 147.59s, Best Cost: 130075670513.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.25s, Best Cost: 129998704894.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 156.92s, Best Cost: 129998704894.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 161.58s, Best Cost: 129998704894.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.25s, Best Cost: 129971266534.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 170.91s, Best Cost: 129971266534.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 175.58s, Best Cost: 129944425105.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.24s, Best Cost: 129944425105.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 184.90s, Best Cost: 129944425105.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 189.57s, Best Cost: 129877188020.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.23s, Best Cost: 129877188020.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 198.90s, Best Cost: 129045394013.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 203.56s, Best Cost: 129045394013.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.22s, Best Cost: 128364749844.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 212.89s, Best Cost: 128364749844.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 128364749844.0
+TIME: 213.9
+[PROGRESS] Time: 8.06s, Best Cost: 131662034403.0 (Seed Finish)
+[PROGRESS] Epoch: 1, Interval: 4.66s, Time: 12.73s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 2, Interval: 4.66s, Time: 17.39s, Best Cost: 131662034403.0
+[PROGRESS] Epoch: 3, Interval: 4.66s, Time: 22.05s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 4, Interval: 4.66s, Time: 26.72s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 5, Interval: 4.66s, Time: 31.38s, Best Cost: 131529696625.0
+[PROGRESS] Epoch: 6, Interval: 4.66s, Time: 36.05s, Best Cost: 131473363270.0
+[PROGRESS] Epoch: 7, Interval: 4.66s, Time: 40.71s, Best Cost: 131473363270.0
+[PROGRESS] Epoch: 8, Interval: 4.66s, Time: 45.37s, Best Cost: 131297596377.0
+[PROGRESS] Epoch: 9, Interval: 4.66s, Time: 50.04s, Best Cost: 131297596377.0
+[PROGRESS] Epoch: 10, Interval: 4.66s, Time: 54.70s, Best Cost: 131297596377.0
+[PROGRESS] Epoch: 11, Interval: 4.66s, Time: 59.37s, Best Cost: 131146962327.0
+[PROGRESS] Epoch: 12, Interval: 4.66s, Time: 64.03s, Best Cost: 131146962327.0
+[PROGRESS] Epoch: 13, Interval: 4.66s, Time: 68.70s, Best Cost: 131111258411.0
+[PROGRESS] Epoch: 14, Interval: 4.66s, Time: 73.36s, Best Cost: 131111258411.0
+[PROGRESS] Epoch: 15, Interval: 4.66s, Time: 78.02s, Best Cost: 131111258411.0
+[PROGRESS] Epoch: 16, Interval: 4.66s, Time: 82.69s, Best Cost: 131028955735.0
+[PROGRESS] Epoch: 17, Interval: 4.66s, Time: 87.35s, Best Cost: 131028955735.0
+[PROGRESS] Epoch: 18, Interval: 4.66s, Time: 92.02s, Best Cost: 130332492206.0
+[PROGRESS] Epoch: 19, Interval: 4.66s, Time: 96.68s, Best Cost: 130332492206.0
+[PROGRESS] Epoch: 20, Interval: 4.66s, Time: 101.35s, Best Cost: 130332492206.0
+[PROGRESS] Epoch: 21, Interval: 4.66s, Time: 106.01s, Best Cost: 130261274476.0
+[PROGRESS] Epoch: 22, Interval: 4.66s, Time: 110.67s, Best Cost: 130261274476.0
+[PROGRESS] Epoch: 23, Interval: 4.66s, Time: 115.34s, Best Cost: 130184627340.0
+[PROGRESS] Epoch: 24, Interval: 4.66s, Time: 120.00s, Best Cost: 130184627340.0
+[PROGRESS] Epoch: 25, Interval: 4.66s, Time: 124.67s, Best Cost: 130184627340.0
+[PROGRESS] Epoch: 26, Interval: 4.66s, Time: 129.33s, Best Cost: 130117970937.0
+[PROGRESS] Epoch: 27, Interval: 4.66s, Time: 134.00s, Best Cost: 130117970937.0
+[PROGRESS] Epoch: 28, Interval: 4.66s, Time: 138.66s, Best Cost: 129442441228.0
+[PROGRESS] Epoch: 29, Interval: 4.66s, Time: 143.32s, Best Cost: 129442441228.0
+[PROGRESS] Epoch: 30, Interval: 4.66s, Time: 147.99s, Best Cost: 129442441228.0
+[PROGRESS] Epoch: 31, Interval: 4.66s, Time: 152.65s, Best Cost: 129357811217.0
+[PROGRESS] Epoch: 32, Interval: 4.66s, Time: 157.32s, Best Cost: 129357811217.0
+[PROGRESS] Epoch: 33, Interval: 4.66s, Time: 161.98s, Best Cost: 129324210076.0
+[PROGRESS] Epoch: 34, Interval: 4.66s, Time: 166.65s, Best Cost: 129324210076.0
+[PROGRESS] Epoch: 35, Interval: 4.66s, Time: 171.31s, Best Cost: 129324210076.0
+[PROGRESS] Epoch: 36, Interval: 4.66s, Time: 175.97s, Best Cost: 129256711344.0
+[PROGRESS] Epoch: 37, Interval: 4.66s, Time: 180.64s, Best Cost: 129256711344.0
+[PROGRESS] Epoch: 38, Interval: 4.66s, Time: 185.30s, Best Cost: 129256711344.0
+[PROGRESS] Epoch: 39, Interval: 4.66s, Time: 189.97s, Best Cost: 129226999817.0
+[PROGRESS] Epoch: 40, Interval: 4.66s, Time: 194.63s, Best Cost: 129226999817.0
+[PROGRESS] Epoch: 41, Interval: 4.66s, Time: 199.30s, Best Cost: 129164286480.0
+[PROGRESS] Epoch: 42, Interval: 4.66s, Time: 203.96s, Best Cost: 129164286480.0
+[PROGRESS] Epoch: 43, Interval: 4.66s, Time: 208.62s, Best Cost: 129164286480.0
+[PROGRESS] Epoch: 44, Interval: 4.66s, Time: 213.29s, Best Cost: 129098608818.0
+[TIMEOUT REACHED: 213.7 seconds]
+COST: 129098608818.0
+TIME: 213.9
+-
