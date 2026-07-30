@@ -212,51 +212,8 @@ ROAR's `DistanceEvaluator`, so the two are directly comparable.
 
 ---
 
-## 6. Known quirks and caveats
 
-1. **`O(N^2)` memory is the wall — this is the paper's Table II OOM result, not a bug.**
-   `readData` allocates `costM` as `(N+1)^2` doubles, and `main()` allocates
-   `reopt` as `(N+1)^2` × `sizeof(ReoptData)` (24 B). At `N = 25,234` that is
-   ≈ 5.1 GB + 15.3 GB ≈ **20 GB**, on top of `vector<vector<>>` row overhead — hence OOM on a 32 GB
-   machine. `usa13509` already needs ≈ 5.9 GB. Budget accordingly; the large-set script will kill the
-   process on the last three instances.
-
-2. **Deterministic seed across all 10 multi-starts.** Because `R_set = {0.00}`, every `I_MAX`
-   iteration constructs the identical tour (§4.1). Under the hard deadline most instances never
-   finish even one outer iteration, so this rarely bites — but if you restore GRASP, restore the full
-   26-value `R_set` too.
-
-3. **Stale `.o` files are committed** in both `src/` and `obj/`. Always `make clean` first, or the
-   makefile may link an object built from an older `main.cpp`.
-
-4. **`perturb()` can divide by zero on tiny instances.** `randomRange(1, LAST_NODE - maxSubsegSize - 1)`
-   computes `rand() % (max - min + 1)`; if `dimension < maxSubsegSize + 2` the modulus is `<= 0`.
-   Safe for everything here (the smallest instance is `berlin52`), but do not point this at a 10-node
-   toy problem.
-
-5. **`readData.cpp` does not clamp the `acos` argument** in `CalcDistGeo`, so a `GEO` instance could
-   produce `NaN` from floating-point drift. No `GEO` instance is used in this study. ROAR's evaluator
-   does clamp.
-
-6. **`readData.cpp` has two upstream typos** in rarely used `EXPLICIT` branches: `LOWER_COL`
-   (L192–197) and `LOWER_DIAG_COL` (L227–232) increment `j` in the inner loop instead of `i`, giving
-   an infinite loop. Untouched from upstream and unreachable for coordinate-based instances; fix
-   before using `EDGE_WEIGHT_FORMAT: LOWER_COL` data.
-
-7. **`srand(time(NULL))`** with 1-second resolution — two runs launched inside the same second share
-   an RNG stream. `run_*.sh` runs are longer than a second, so this does not affect the benchmark.
-
-8. **`[PROGRESS]` lines are appended to the benchmark file** by `run_*.sh`'s grep. The parser in
-   `../processingData/summary_compare_fileCreator.py` deliberately skips lines starting with `[`.
-
-9. **OOM is inferred, not reported.** When `mlp` is killed by the OOM killer it prints nothing, so
-   `run_*.sh` writes only the instance-name header line. `summary_compare_fileCreator.py` treats "a
-   `.tsp` header with zero `COST`/`TIME` pairs after it" as `OOM`. If a run fails for any *other*
-   reason it will be silently mislabelled as OOM — check `dmesg` if in doubt.
-
----
-
-## 7. Citation
+## 6. Citation
 
 If you use this baseline, cite both the algorithm and the codebase it adapts:
 
