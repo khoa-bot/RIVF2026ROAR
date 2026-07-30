@@ -258,7 +258,7 @@ holding the ruin-and-recreate frame constant.
 
 
 ## 5. Reproducing the paper tables
-
+Note: due to the large size, the log report for large and extreme dataset is omitted. The result files are still available.
 | Table | Command | Then |
 |---|---|---|
 | I (regular) | `printf "\n\n\ny\n" \| ./run_regular` | copy `trp_results_ROAR_regularDataset_modified.csv` to `../processingData/` |
