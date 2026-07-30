@@ -21,7 +21,7 @@ codebase. The only external material is the instance data (see [Instances](#inst
 | `main_roar.cpp` | **ROAR** (Algorithms 1 & 2) | *Regular* set, 52 – 11,849 nodes (Table I) |
 | `main_ROAR_large.cpp` | **ROAR** | *Large* set, 13,509 – 33,810 nodes (Table II) |
 | `main_roar_extreme.cpp` | **ROAR** | *Extreme* set, 32,892 – 200,000 nodes (Table III) |
-| `main_trivialCombination.cpp` | **ROAR-PLS**, the post-repair-local-search ablation of Section V-F | *Regular* set |
+| `main_trivialCombination.cpp` | **LNS+2-opt**, the post-repair-local-search version of Section V-F | *Regular* set |
 
 > `main_roar.cpp`, `main_ROAR_large.cpp` and `main_roar_extreme.cpp` are **byte-for-byte identical
 > except for three things**: the log filename, the results-CSV filename, and the `datasets` array in
@@ -243,7 +243,7 @@ no clock is read in the hot path.
 
 ---
 
-## 4. ROAR-PLS (`main_trivialCombination.cpp`)
+## 4. LNS+2-opt (`main_trivialCombination.cpp`)
 
 The Section V-F ablation. Identical to `main_roar.cpp` except:
 
@@ -256,66 +256,8 @@ The Section V-F ablation. Identical to `main_roar.cpp` except:
 This isolates the effect of *where* the local search sits (interleaved ILO vs. post-repair) while
 holding the ruin-and-recreate frame constant.
 
-> ⚠️ See [§5](#5-known-quirks-and-caveats) — this is a *single best-improvement pass*, not a descent
-> to a 2-opt local optimum.
 
----
-
-## 5. Known quirks and caveats
-
-Read this before extending or re-running the code.
-
-1. **`Loops per Epoch (K)` is a dead parameter.** It is prompted for and written to the log, but
-   `loops_per_epoch` is never read inside `perform_sequential_lns_search`. Epochs are wall-clock
-   intervals of `E(N)` seconds, per the paper. The banner comment at the top of `main_roar.cpp`
-   ("Epochs are now tracked by K full iterations rather than time intervals") is **stale and
-   incorrect** — it describes an older revision.
-
-2. **ROAR-PLS applies one 2-opt move per cycle, not a full descent.** `apply_full_two_opt_trp` scans
-   all `O(n^2)` moves exactly once and applies only the single best. The paper describes the
-   ablation as "a full local search to the rebuilt tour". If a reviewer reads "full local search" as
-   *iterate to a local optimum*, the implementation is weaker than the description. The code comment
-   at L281–285 is explicit about the choice, so it is deliberate — but the wording in the paper's
-   Section V-F should be tightened to say "a single best-improvement pass over the complete `O(n^2)`
-   2-opt neighbourhood".
-
-3. **`run_all.sh` does not build `main_trivialCombination.cpp`.** Compile the ablation manually.
-
-4. **`E(N) < 1 s` for `N < 1000`.** `get_epoch_interval()` has no lower clamp (the
-   `if (nodes <= 1000) return 1.0;` guard is commented out at L212), so e.g. `berlin52` gets
-   `E = 0.72 s` and can early-stop after ~7.2 s. This matches Eq. (9) as literally written and is
-   consistent with the ~8–13 s runtimes in Table I. Note `GILS_RVND/.../main.cpp` **does** clamp to
-   `1.0` — there the interval only drives progress logging, so it changes nothing, but the two
-   functions are not textually identical.
-
-5. **Dead code retained from earlier revisions:** `O1_MATRIX_THRESHOLD` (L32), `struct Subseq` /
-   `combine_subseq()` (L161–176), `calculate_dynamic_limit()` (L202–208) and its result
-   `dynamic_no_improve`, `p_sec`, and the `optimum` field of `TSPInstance` (set to `1000` for every
-   instance) are all unused. Harmless, but they invite misreading — `combine_subseq` in particular
-   looks like the Vidal et al. concatenation framework the paper explicitly says ROAR does *not* use.
-
-6. **Costs are truncated to `long long` on output** (L651, L663). Internally everything is `double`.
-   With integer edge weights the latency is integral anyway, so the truncation is exact.
-
-7. **Per-insertion `O(N)` recompute.** `calculate_trp_cost(dm, partial_tour, ...)` is called after
-   every insertion (L409) to refresh the 2-opt baseline. It does not change the asymptotic cost of
-   the recreate phase (the insertion scan is already `O(|pi'|)`), but it is a constant-factor
-   redundancy that could be maintained incrementally.
-
-8. **The `candidates` vector is rebuilt and fully shuffled every cycle** (L350–352) — `O(N)` per
-   cycle even though at most 300 entries are used. Negligible next to the `O(k*N)` recreate, but a
-   partial Fisher-Yates would remove it.
-
-9. **Results are appended, never truncated.** Re-running without clearing
-   `trp_results_*.csv` / `log_report_*.txt` silently mixes runs; the header row is re-emitted per
-   execution, which is why the parsers in `../processingData` explicitly skip repeated headers.
-
-10. **RNG seed** is `1337 + steady_clock::now()`, so runs are *not* reproducible. This is intended
-    (10 independent runs) but means a specific number cannot be re-derived.
-
----
-
-## 6. Reproducing the paper tables
+## 5. Reproducing the paper tables
 
 | Table | Command | Then |
 |---|---|---|
@@ -329,7 +271,7 @@ Aggregation, gap computation and the loop-count summary are handled by the scrip
 
 ---
 
-## 7. Attribution
+## 6. Attribution
 
 * **Algorithm and code** — original work by the ROAR authors. No third-party solver code is
   incorporated in this folder.
