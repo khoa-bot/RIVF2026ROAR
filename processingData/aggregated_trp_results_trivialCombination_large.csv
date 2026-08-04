@@ -1,0 +1,7 @@
+Dataset,Nodes,Method,Average_Cost,Average_Runtime
+usa13509,13509.0,ROAR_trivialCombination,119385258258.0,213.7198
+fma21553,21553.0,ROAR_trivialCombination,770081875.7,286.8472
+lsb22777,22777.0,ROAR_trivialCombination,752568634.9,297.9748
+bbz25234,25234.0,ROAR_trivialCombination,949330844.6,320.31170000000003
+boa28924,28924.0,ROAR_trivialCombination,1247251851.2,353.857
+pla33810,33810.0,ROAR_trivialCombination,1119380219093.4,398.275
