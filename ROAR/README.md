@@ -1,5 +1,4 @@
 # ROAR — Restricted 2-Opt And Ruin-and-recreate
-
 Reference implementation of **ROAR**, the CPU-native ruin-and-recreate heuristic for the
 Travelling Repairman Problem (TRP / Minimum Latency Problem) introduced in:
 
@@ -22,6 +21,7 @@ codebase. The only external material is the instance data (see [Instances](#inst
 | `main_ROAR_large.cpp` | **ROAR** | *Large* set, 13,509 – 33,810 nodes (Table II) |
 | `main_roar_extreme.cpp` | **ROAR** | *Extreme* set, 32,892 – 200,000 nodes (Table III) |
 | `main_trivialCombination.cpp` | **LNS+2-opt**, the post-repair-local-search version of Section V-F | *Regular* set |
+| `main_trivialCombination_large.cpp` | **LNS+2-opt**, the post-repair-local-search version of Section V-F | *Large* set |
 
 > `main_roar.cpp`, `main_ROAR_large.cpp` and `main_roar_extreme.cpp` are **byte-for-byte identical
 > except for three things**: the log filename, the results-CSV filename, and the `datasets` array in
@@ -93,24 +93,8 @@ g++ -O3 -pthread main_roar.cpp             -o run_regular
 g++ -O3 -pthread main_ROAR_large.cpp       -o run_large
 g++ -O3 -pthread main_roar_extreme.cpp     -o run_extreme
 g++ -O3 -pthread main_trivialCombination.cpp -o run_pls
+g++ -O3 -pthread main_trivialCombination_large.cpp -o run_pls_large
 
-./run_regular
-```
-
-Each binary is **interactive** and prompts for four values on stdin:
-
-```
-LNS Max Removal Nodes (Prop) [Default 0.2]:      -> alpha_destroy   (Eq. 2)
-Epoch Patience for Early Stop [Default 10]:      -> k, non-improving epochs before halt
-Loops per Epoch (K) [Default 100]:               -> DEAD PARAMETER, see §5
-Auto-advance to the next dataset? (y/n) [n]:     -> 'y' for unattended batch runs
-```
-
-Press Enter three times then `y` to reproduce the paper configuration. For a non-interactive run:
-
-```bash
-printf "\n\n\ny\n" | ./run_regular
-```
 
 **The outer loop runs the whole instance list 10 times** (`number_execution = 10` in `main()`), which
 is where the paper's "mean over 10 independent runs" comes from. Results are *appended* to the CSV,
