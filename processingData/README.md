@@ -3,7 +3,7 @@ Note: this folder contains programs that may assist in cleaning and aggregating 
 This folder is the **post-processing stage** of the ROAR study. The three solvers each write results
 in their own format; the scripts here normalise them, average over the 10 runs, join them into one
 wide table per instance partition, and compute the percentage gaps quoted in the paper.
-
+New experiments files may be uploaded without instructions and description in this README file.
 Nothing here re-runs a solver. Everything is pure parsing and arithmetic.
 
 ---
