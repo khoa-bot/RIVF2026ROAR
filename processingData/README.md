@@ -55,7 +55,7 @@ Optional extras:
 
 | File | Needed for |
 |---|---|
-| `../ROAR/trp_results_ROAR_regularDataset_modified_trivialCombination.csv` | the ROAR-PLS ablation columns |
+| `../ROAR/trp_results_ROAR_regularDataset_modified_trivialCombination.csv` | the LNS+2-opt ablation columns |
 | `../ROAR/log_report_ROAR_{regular,large,extreme}Dataset_modified.txt` | the LNS loop-count summary |
 | `../ROAR/trp_results_ROAR_extremeDataset_modified.csv` | Table III (extreme set) — see §6 |
 
@@ -146,7 +146,7 @@ and writes `trp_summary_regular_with_gaps.csv` / `trp_summary_large_with_gaps.cs
 "9.8–13.7% over GILS-RVND" and "6.0–14.7% over PDLSH" in Section V-G. `OOM` / `NO_DATA` cells become
 `NaN` (via `errors='coerce'`) and yield an empty gap.
 
-### 3.3 `aggregated_data_trivialCombination.py` — ROAR-PLS averages
+### 3.3 `aggregated_data_trivialCombination.py` — LNS+2-opt averages
 
 ```bash
 python3 aggregated_data_trivialCombination.py
@@ -167,7 +167,7 @@ Left-joins `aggregated_trp_results_trivialCombination.csv` onto `trp_summary_reg
 `(Dataset, Nodes)` and writes `trp_summary_regular_updated.csv`, adding
 `ROAR_trivialCombination_AvgCost` and `ROAR_trivialCombination_AvgTime(s)`.
 
-Those two columns are the **ROAR-PLS** column of Table I and the basis for the Section V-F ablation
+Those two columns are the **LNS+2-opt** column of Table I and the basis for the Section V-F ablation
 percentages.
 
 > Run order matters: `3.3` before `3.4`, and `3.1` before both.
@@ -229,8 +229,8 @@ python3 loops_creator.py
 | `trp_summary_large.csv` | Table II |
 | `trp_summary_regular_with_gaps.csv` | Section V-E percentages |
 | `trp_summary_large_with_gaps.csv` | Section V-G percentages |
-| `aggregated_trp_results_trivialCombination.csv` | ROAR-PLS means |
-| `trp_summary_regular_updated.csv` | Table I including the ROAR-PLS column |
+| `aggregated_trp_results_trivialCombination.csv` | LNS+2-opt means |
+| `trp_summary_regular_updated.csv` | Table I including the LNS+2-opt column |
 | `roar_loops_summary.csv` | Section V-I discussion |
 
 The paper's tables divide each row by the `Scale` factor and round to five significant digits; the
